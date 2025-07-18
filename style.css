@@ -1,0 +1,84 @@
+body {
+    font-family: 'Amiri', serif;
+    background: #f8f4ef;
+    color: #2c1b0c;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #6a4f3b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .logo {
+    width: 60px;
+    margin-bottom: 10px;
+  }
+  
+  .logo {
+    width: 104px;
+    margin-bottom: 0px;
+}
+  
+  main {
+    padding: 30px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .card {
+    background: #fff;
+    border: 2px solid #d4b08c;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 12px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  .patriarch-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #a47e55;
+  }
+  
+  .summary {
+    background: #f3ede6;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px 0;
+  }
+  
+  .controls {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #8d6748;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #a47e55;
+  }
+  
+  footer {
+    text-align: center;
+    background: #eee;
+    padding: 15px;
+    margin-top: 50px;
+  }
+  
